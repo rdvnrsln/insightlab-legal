@@ -21,7 +21,7 @@ Bu metinler doğrudan App Store Connect ekranlarına yapıştırılacaktır. Pro
 ```
 InsightLab, çocuğunuzun duygusal gelişimini ve günlük deneyimlerini kaydetmenize, haftalık ve aylık yapay zeka destekli özetler almanıza olanak tanıyan, gizlilik odaklı bir ebeveynlik uygulamasıdır.
 
-Günlük olayları, notlarınızı ve okuduklarınızdan edindiğiniz bilgileri tek yerden kaydedin. Uygulama, haftalık ve aylık analizlerle size kalıplar ve içgörüler sunar; böylece büyük resmi görebilir, çocuğunuzla ilişkinize dair farkındalığınızı artırabilirsiniz. Gerçek isim kullanmadan takma adlarla profil oluşturabilir, verileriniz cihazınızda kalır.
+Günlük olayları, notlarınızı ve okuduklarınızdan edindiğiniz bilgileri tek yerden kaydedin. Uygulama, haftalık ve aylık analizlerle size kalıplar ve içgörüler sunar; böylece büyük resmi görebilir, çocuğunuzla ilişkinize dair farkındalığınızı artırabilirsiniz. Gerçek isim kullanmadan takma adlarla profil oluşturabilirsiniz.
 
 Bu uygulama tıbbi, psikolojik veya psikiyatrik teşhis veya tedavi sağlamaz. İçgörüler yalnızca bilgilendirme amaçlıdır; endişelerinizde mutlaka bir uzmana danışın.
 
